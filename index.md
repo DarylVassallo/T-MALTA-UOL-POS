@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+# TEAM MALTA - POINT OF SALE SYSTEM 
+## HOME PAGE
 
 You can use the [editor on GitHub](https://github.com/Daniel-Shaw-MT/T-MALTA-UOL-POS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
